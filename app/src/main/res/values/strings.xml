@@ -3,4 +3,7 @@
     <string name="game_title">Suit Game</string>
     <string name="tv_description">Ready to Start Game ?</string>
     <string name="btn_start_game">Start Game</string>
+    <string name="play_game">Play Game</string>
+    <string name="tv_player_info">Choose option. Player 2</string>
+    <string name="tv_away_info">Choose option. Player 1</string>
 </resources>
